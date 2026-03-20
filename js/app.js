@@ -181,13 +181,71 @@ function initSongPage() {
 }
 
 /* =====================
+   Index page — demos pagination
+   ===================== */
+function initDemosSection() {
+  const grid = document.getElementById('demos-grid');
+  if (!grid) return;
+
+  const PAGE_SIZE = 6;
+  let currentPage = 1;
+  const cards = Array.from(grid.querySelectorAll('.demo-card'));
+  const totalPages = Math.ceil(cards.length / PAGE_SIZE);
+
+  function render() {
+    const start = (currentPage - 1) * PAGE_SIZE;
+    cards.forEach((card, i) => {
+      card.style.display = (i >= start && i < start + PAGE_SIZE) ? '' : 'none';
+    });
+
+    const prevBtn = document.getElementById('demos-prev');
+    const nextBtn = document.getElementById('demos-next');
+    const paginationEl = document.getElementById('demos-pagination');
+
+    if (totalPages <= 1) {
+      if (prevBtn) prevBtn.style.visibility = 'hidden';
+      if (nextBtn) nextBtn.style.visibility = 'hidden';
+      if (paginationEl) paginationEl.style.display = 'none';
+      return;
+    }
+
+    if (prevBtn) {
+      prevBtn.style.visibility = 'visible';
+      prevBtn.disabled = currentPage === 1;
+    }
+    if (nextBtn) {
+      nextBtn.style.visibility = 'visible';
+      nextBtn.disabled = currentPage === totalPages;
+    }
+    if (paginationEl) {
+      paginationEl.style.display = 'flex';
+      paginationEl.innerHTML = '';
+      for (let i = 1; i <= totalPages; i++) {
+        const btn = document.createElement('button');
+        btn.className = 'page-btn' + (i === currentPage ? ' active' : '');
+        btn.textContent = i;
+        btn.addEventListener('click', () => { currentPage = i; render(); });
+        paginationEl.appendChild(btn);
+      }
+    }
+  }
+
+  const prevBtn = document.getElementById('demos-prev');
+  const nextBtn = document.getElementById('demos-next');
+  if (prevBtn) prevBtn.addEventListener('click', () => { if (currentPage > 1) { currentPage--; render(); } });
+  if (nextBtn) nextBtn.addEventListener('click', () => { if (currentPage < totalPages) { currentPage++; render(); } });
+
+  render();
+}
+
+/* =====================
    Boot
    ===================== */
 document.addEventListener('DOMContentLoaded', () => {
   const path = window.location.pathname;
   if (path.endsWith('song.html'))  initSongPage();
   else if (path.endsWith('songs.html')) initSongsPage();
-  else                             initIndexPage();
+  else { initIndexPage(); initDemosSection(); }
 
   // Mark active nav link
   document.querySelectorAll('.nav-links a').forEach(a => {
