@@ -708,12 +708,10 @@ Memories aching in my heart
 Standing here the product of all I've done,
 all I've loved,
 all I've won.
-
 Not too shabby for a boy from the South
 With many a "yes, mam" outta my mouth
 Today's good, yesterday's not half bad
 Future's bright, no reason to feel sad
-
 Just need a minute with that old album on the shelf
 Think I'm just missing my 20-year-old self.
 
@@ -721,20 +719,14 @@ We live in the moment, then something strikes a nerve
 And back to yesterday, our thoughts they can swerve.
 And we just need a minute- time to reflect
 We just need a visit with our 20-year-old self.
-
 The moonlight at night will do it every time
 Make you dream of the past and hit rewind.
-Thoughts of fast friends and one-night stands
-when I stayed out all night listening to local bands
-Can still feel the breeze, and you holding me tight.
-I was still me, but my eyes were so bright.
 
 We sat in chairs around my mama's table,
 there were 4 but we could always pull up more
 for whoever might show up at the back door
 It was so good then, not saying it's not great now.
-Just wish I could sit at that table again ....for a bit ....somehow.
-
+Just wish I could sit at that table again ….for a bit ….somehow.
 Just need a minute with that old album on the shelf
 Think I'm just missing my 20-year-old self.
 
@@ -742,18 +734,24 @@ We live in the moment, then something strikes a nerve
 And back to yesterday, our thoughts they can swerve.
 And we just need a minute- time to reflect
 We just need a visit with our 20-year-old self.
-
 The moonlight at night will do it every time
 Make you dream of the past and hit rewind.
 Thinking of people now far away
-Wishing we could see them again ....for just one more day
+Wishing we could see them again ….for just one more day
 Remembering loves and laughs and lessons
 Back when I had all the answers, but was asking the wrong questions.
 
 We did our best and had a lot of style-
+Memories
+Slip out the back door, run down that old dirt road
+To sit at that table….where the coffee stayed hot
+And old stories would unfold
+Just need a minute with that old album on the shelf
+Waving from the porch when the moonlight is low
+We steal one more visit….with our 20 year old self
+Yeah, one more visit… with that bright-eyed kid and my 20 year old self
 Sometimes we all just want to visit our 20-year-old selves for a while.
 Sometimes we all just want to visit our 20-year-old selves for a while.
-
 Just a while`
   },
 
@@ -1068,78 +1066,78 @@ Summer 101, where livin' your best life is the number one lesson.`
     id: "we-were-old-school",
     title: "We Were Old School",
     date: "February 28, 2025",
-    lyrics: `Elton, Michael, Lynyrd and Rod-
-top of my list before the iPod
-Stayed out til the sun went down,
+    lyrics: `Skynyrd, Elton, Michael, and Rod-
+top of our list before the ipod
+out til the sun went down,
 shooting baskets in the street.
 Got our laughs in real time.
--No such thing as a tweet.
-
-Hours together, we passed our days
-out by the pool soakin' up rays.
-Moma's words were the alarms
-going off in our heads.
-Talked on the phone all night
--Lying in our beds.
-
-Remember directions
-and phone numbers
-Could today's kids manage?
-Everyone wonders.
+-no such thing as a tweet.
+Remembered directions and phone numbers
+Where does the time go?
+Everybody wonders.
 
 We were old school-
 all that mattered was being cool.
 -Drank our share of beer
 -Played our share of pool
-Kept your mouth shut
-cause you had to back it up.
-Want to hear about it?
-Go ahead, pull a chair up.
-
-We'll tell you face to face
-if we have something important to say.
-Rather hear your voice over a text any ole day.
-
+-told you face to face
+if we had something important to say.
+Head held high, eye to eye
+-that was our way.
 No one second guessing our every move.
-Gave us time to think, to find our groove.
-Showing style went a long way
--All the girls heavy with hairspray.
+Gave us time to think, time to find our groove.
 
-If a kid in class was a bit high-strung,
-teacher told him,
-"Go outside and run."
-Out of breath he'd come right back,
--Get straight to his work.
-A little common sense was all it took.
-
-There was no talkin' back,
+Hours together, passing our days
+out by the pool soakin' up rays.
+-on the phone all night
+-lying in our beds.
+Mama's words were the alarms
+going off in our heads.
+There was no talkin' back;
 we listened the first time.
-We knew what to expect,
-and things turned out just fine.
-Getting along wasn't all that tough.
-Five dollars could last us all week.
-Somehow that was enough.
-
-Making the class laugh
-got you bonus points.
-Spent our weekends
-trying to sneak into juke joints.
+-knew what to expect
+And things turned out just fine.
+Five dollars could last us all week long.
+Somehow we always had enough.
+-Got by on our wits
+It wasn't that tough.
 
 We were old school-
 all that mattered was being cool.
-Kept your mouth shut
-cause you had to back it up.
-Want to hear about it?
-Go ahead, pull a chair up.
+-Drank our share of beer
+-Played our share of pool
+-told you face to face
+if we had something important to say.
+Head held high, eye to eye
+-that was our way.
+No one second guessing our every move.
+Gave us time to think, time to find our groove.
 
-We'll tell you face to face
-if we have something important to say.
-Rather hear your voice over a text any ole day.
-
+Making the class laugh
+got you bonus points.
+Spending weekends
+trying to sneak into juke joints.
+Whatever happened,
+you just had to be there.
+Wanted to hear about it,
+had to pull a chair.
 They say we look at the past
 through rose-colored glasses.
--Like to visit the 80's every now and again?
-You bet your asses.`
+Thankful I was a kid in the 80's?
+You bet your asses.
+
+We were old school-
+all that mattered was being cool.
+-Drank our share of beer
+-Played our share of pool
+-told you face to face
+if we had something important to say.
+Head held high, eye to eye
+-that was our way.
+No one second guessing our every move.
+-Gave us time to think, time to find our groove.
+No one second guessing our every move.
+Gave us time to think, time to find our groove.`
   },
 
   {
