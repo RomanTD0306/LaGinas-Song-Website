@@ -762,12 +762,11 @@ Just a while`
     lyrics: `I've been turning it over in my head
 last several years.
 It started one late summer night-
-Gulf breeze- fighting back tears.
+Gulf breeze-me fighting back tears.
 It wasn't working out-
 time to part our ways.
 Handed my walking papers-
 would lead to better days.
-
 You drove away
 I stood alone
 all those years ago.
@@ -777,7 +776,7 @@ nowhere but up to go.
 On a wing and a prayer,
 it all worked out
 believed and took a chance.
--May have needed that little push,
+-may have needed that little push,
 upon second glance.
 
 Could of caught me on my way up-
@@ -790,12 +789,9 @@ Does it keep you up at night?
 Left me alone-
 Had time to think-
 then I saw the light.
-You taught me a few.
-It hurt at the time.
 Your words added fuel to the fire.
-If I said it didn't feel good-
-seeing your jaw drop-
-you know I'd be a liar.
+Do I feel bad seeing your jaw drop?
+If I said yes, I'd be a liar.
 
 Had to walk away before I was ready,
 playing it over and over in my head.
@@ -807,22 +803,8 @@ Thought you were moving ahead-
 leaving me behind-
 Lots of early morning prayers
 whispered over that coffee cup.
-Keep your chin up.
-
 Thinking of it now-
-sitting here with you-
-you wink and shoot me that smile
-Needed to learn a few lessons
-way back then,
-but I was on the right track
-all the while.
-
-Forgive and forget-
-it's the thing to do-
-I know it's rude to gloat.
-Every now and then,
-I stop and think-
-I should send a thank you note.
+me with you would have never added up.
 
 Could of caught me on my way up-
 foolish as I was-
@@ -834,12 +816,37 @@ Does it keep you up at night?
 Left me alone-
 Had time to think-
 then I saw the light.
-You taught me a few.
-It hurt at the time.
 Your words added fuel to the fire.
-If I said it didn't feel good-
-seeing your jaw drop-
-you know I'd be a liar.`
+Do I feel bad
+seeing your jaw drop?
+If I said yes, I'd be a liar.
+
+Needed to learn a few lessons,
+-chin up…on my face a smile
+Didn't realize I was on the right track
+all the while.
+
+Forgive and forget-
+it's the thing to do-
+I know it's rude to gloat.
+But every now and then,
+I stop and think-
+should send a thank you note?
+
+Could of caught me on my way up-
+foolish as I was-
+thinking you were the only one.
+You told me I couldn't do it-
+now you'll see just how it's done.
+
+Does it keep you up at night?
+Left me alone-
+Had time to think-
+then I saw the light.
+Your words added fuel to the fire.
+Do I feel bad
+seeing your jaw drop?
+If I said yes, I'd be a liar.`
   },
 
   {
