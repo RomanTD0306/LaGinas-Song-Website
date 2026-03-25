@@ -1079,7 +1079,8 @@ out til the sun went down,
 shooting baskets in the street.
 Got our laughs in real time.
 -no such thing as a tweet.
-Remembered directions and phone numbers
+Remembered directions
+and phone numbers.
 Where does the time go?
 Everybody wonders.
 
@@ -1100,14 +1101,14 @@ out by the pool soakin' up rays.
 -lying in our beds.
 Mama's words were the alarms
 going off in our heads.
-There was no talkin' back;
-we listened the first time.
+There was no talkin' back
+-listened the first time.
 -knew what to expect
-And things turned out just fine.
+things turned out just fine.
 Five dollars could last us all week long.
 Somehow we always had enough.
 -Got by on our wits
-It wasn't that tough.
+-wasn't that tough.
 
 We were old school-
 all that mattered was being cool.
@@ -1122,15 +1123,15 @@ Gave us time to think, time to find our groove.
 
 Making the class laugh
 got you bonus points.
-Spending weekends
+Spent our weekends
 trying to sneak into juke joints.
 Whatever happened,
 you just had to be there.
-Wanted to hear about it,
-had to pull a chair.
+Wanted to hear about it?
+-had to pull up a chair.
 They say we look at the past
 through rose-colored glasses.
-Thankful I was a kid in the 80's?
+Glad I was a kid in the 80's?
 You bet your asses.
 
 We were old school-
