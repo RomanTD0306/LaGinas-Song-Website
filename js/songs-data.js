@@ -760,93 +760,68 @@ Just a while`
     title: "Jaw Drop Song",
     date: "February 5, 2025",
     lyrics: `I've been turning it over in my head
-last several years.
-It started one late summer night-
-Gulf breeze-me fighting back tears.
-It wasn't working out-
-time to part our ways.
-Handed my walking papers-
-would lead to better days.
-You drove away
+-all the many comebacks I wish I'd said
+It was time to part our ways.
+It would lead to better days.
+You drove away.
 I stood alone
-all those years ago.
-Brought me to my knees –
+-all those years ago.
+Knocked me down a notch –
 nowhere but up to go.
+
+Could of caught me on my way up-
+foolish as I was-
+thinking you were the only one.
+You told me I couldn't do it-
+now you'll see
+just how it's done.
+
+Just can't help but smile
+seeing your jaw drop.
+-Cause everybody knows
+the cream always rises to the top.
+
+Lots of morning prayers
+whispered over that coffee cup.
+Thinking of it now-
+you and I would have never added up.
+
+Needed to learn a few lessons,
+-chin up…on my face a smile
+Didn't realize then
+I was on the right track
+all the while.
+
+Could of caught me on my way up-
+foolish as I was-
+thinking you were the only one.
+You told me I couldn't do it-
+now you'll see
+just how it's done.
+
+Just can't help but smile
+seeing your jaw drop.
+'Cause everybody knows
+the cream always rises to the top.
 
 On a wing and a prayer,
 it all worked out
 believed and took a chance.
--may have needed that little push,
+-just may have needed that little push,
 upon second glance.
 
 Could of caught me on my way up-
 foolish as I was-
 thinking you were the only one.
 You told me I couldn't do it-
-now you'll see just how it's done.
+now you'll see
+just how it's done.
 
-Does it keep you up at night?
-Left me alone-
-Had time to think-
-then I saw the light.
-Your words added fuel to the fire.
-Do I feel bad seeing your jaw drop?
-If I said yes, I'd be a liar.
-
-Had to walk away before I was ready,
-playing it over and over in my head.
-The quick come-backs
-running through my mind-
-what I wish I said.
-
-Thought you were moving ahead-
-leaving me behind-
-Lots of early morning prayers
-whispered over that coffee cup.
-Thinking of it now-
-me with you would have never added up.
-
-Could of caught me on my way up-
-foolish as I was-
-thinking you were the only one.
-You told me I couldn't do it-
-now you'll see just how it's done.
-
-Does it keep you up at night?
-Left me alone-
-Had time to think-
-then I saw the light.
-Your words added fuel to the fire.
-Do I feel bad
-seeing your jaw drop?
-If I said yes, I'd be a liar.
-
-Needed to learn a few lessons,
--chin up…on my face a smile
-Didn't realize I was on the right track
-all the while.
-
-Forgive and forget-
-it's the thing to do-
-I know it's rude to gloat.
-But every now and then,
-I stop and think-
-should send a thank you note?
-
-Could of caught me on my way up-
-foolish as I was-
-thinking you were the only one.
-You told me I couldn't do it-
-now you'll see just how it's done.
-
-Does it keep you up at night?
-Left me alone-
-Had time to think-
-then I saw the light.
-Your words added fuel to the fire.
-Do I feel bad
-seeing your jaw drop?
-If I said yes, I'd be a liar.`
+Yep, I can't help but smile
+seeing your jaw drop.
+'Cause everybody knows
+the cream always rises to the top.
+The cream always rises to the top.`
   },
 
   {
