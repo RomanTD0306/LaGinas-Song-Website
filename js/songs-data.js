@@ -759,27 +759,31 @@ Just a while`
     id: "jaw-drop-song",
     title: "Jaw Drop Song",
     date: "February 5, 2025",
-    lyrics: `I've been turning it over in my head
--all the many comebacks I wish I'd said
+    lyrics: `Been turning it over in my head
+-all the comebacks I wish I'd said
 It was time to part our ways.
-It would lead to better days.
+-would lead to better days.
 You drove away.
 I stood alone
 -all those years ago.
 Knocked me down a notch –
 nowhere but up to go.
+Handed my walking papers
+-used them to fan the flame.
+-stubborn as those who came before me
+carrying my same last name.
 
-Could of caught me on my way up-
-foolish as I was-
-thinking you were the only one.
-You told me I couldn't do it-
-now you'll see
-just how it's done.
+Yep, I was dismissed, alright.
+But you just hold tight.
+Always knew this day would come
+-didn't know route it would take.
+-and seeing your jaw drop
+is icing on the cake.
 
 Just can't help but smile
-seeing your jaw drop.
--Cause everybody knows
-the cream always rises to the top.
+-seeing your jaw drop.
+-Cause anyone who knows can tell ya'
+-the cream always rises to the top.
 
 Lots of morning prayers
 whispered over that coffee cup.
@@ -787,22 +791,10 @@ Thinking of it now-
 you and I would have never added up.
 
 Needed to learn a few lessons,
--chin up…on my face a smile
+-chin up…on my face a smile.
 Didn't realize then
 I was on the right track
 all the while.
-
-Could of caught me on my way up-
-foolish as I was-
-thinking you were the only one.
-You told me I couldn't do it-
-now you'll see
-just how it's done.
-
-Just can't help but smile
-seeing your jaw drop.
-'Cause everybody knows
-the cream always rises to the top.
 
 On a wing and a prayer,
 it all worked out
@@ -810,18 +802,23 @@ believed and took a chance.
 -just may have needed that little push,
 upon second glance.
 
-Could of caught me on my way up-
-foolish as I was-
+Could of caught me on my way up
+-foolish as I was
 thinking you were the only one.
-You told me I couldn't do it-
-now you'll see
-just how it's done.
+Told me I couldn't do it.
+Now you'll see just how it's done.
 
-Yep, I can't help but smile
-seeing your jaw drop.
-'Cause everybody knows
-the cream always rises to the top.
-The cream always rises to the top.`
+Yep, I was dismissed, alright.
+But you just hold tight.
+Always knew this day would come
+-didn't know route it would take
+and seeing your jaw drop
+is icing on the cake.
+
+Just can't help but smile
+-seeing your jaw drop.
+'Cause anybody who knows can tell ya'
+-the cream always rises to the top.`
   },
 
   {
@@ -1650,7 +1647,7 @@ Thankful to be a daughter they raised`
 
   {
     id: "guiding-me",
-    title: "Guiding Me",
+    title: "Living in the Fullness",
     date: "March 12, 2025",
     lyrics: `I'm continually stumbling
 way out of bounds.
