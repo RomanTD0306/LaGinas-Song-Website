@@ -651,55 +651,6 @@ for you there'll be no other; your Louisiana love will ever bloom.`
   },
 
   {
-    id: "providence",
-    title: "Providence",
-    date: "September 23, 2025",
-    lyrics: `Providence, it's a wonder, how you save me from myself?
-Providence, you go before me, preparing a way when I have nothing left.
-Providence, You are so faithful, as I look to how far I've come.
-Providence, always working, merging His will and mine into one.
-
-When I'm running in circles, trying to keep up.
-Never quite content, but refusing to look up.
-Help me remember all the times before,
-when You were there waiting for me, there to open the door.
-
-Set my heart on things above.
-Fill me with your steadfast love.
-Lend me Thy ear, oh Lord of Host.
-Help me to focus on what pleases You most.
-
-Walk with me in the garden as I meditate on Your word.
-Sit with me at the fountain, each word of my prayer is heard.
-
-Spreading myself too thin, and the problems just surmount
-Our life is but a vapor, and I want my time to count.
-Help me walk worthy as Your mercies fall anew.
-Help me walk worthy of Your friendship ever-true.
-Help me walk worthy as blessings new unfold.
-Help me walk worthy like the great leaders of old.
-
-Find me always waiting, never pushing for my way.
-Find me always thankful, as Your will, not mine, I pray.
-Find me ever joyful, resting in the love of my Father day by day.
-
-Set my heart on things above.
-Fill me with your steadfast love.
-Lend me Thy ear, oh Lord of Host.
-Help me to focus on what pleases You most.
-
-Walk with me in the garden as I meditate on Your word.
-Sit with me at the fountain, each word of my prayer is heard.
-
-Spreading myself too thin, and the problems just surmount
-Our life is but a vapor, and I want my time to count.
-
-When worry and regret seem to fill my mind,
-Providence, you go before me, time after time.
-Providence, you go before me, time after time.`
-  },
-
-  {
     id: "my-20-year-old-self",
     title: "My 20-year-old Self",
     date: "",
@@ -2002,59 +1953,94 @@ Doubt me? -Just ask one.`
     title: "The Co-pilot by your Side",
     date: "February 25, 2025",
     lyrics: `Some say luck is blind,
+
 or the stars were aligned.
--Spinning our wheels trying to get ahead
--Tossing and turning in our bed
+
+-Spinning my wheels trying to get ahead
+
+-tossing and turning in my bed
+
 But what if there is a plan
+
 right from the start,
-and all we have to do is play our part.
 
-I know for some it's a hard sell.
+all I have to do
+
+is play my part.
+
+I know it's a hard sell.
+
 Fear has a different story to tell.
-The faces and smiles we pass each day
-hold the clues that guide our way.
 
-Our Maker has the plan well in hand.
-Maybe we just sit back and enjoy the band.
-When we have the right co-pilot at our side,
-Maybe we just sit back and enjoy the ride.
+In the back of my mind
 
-Probably have everything we need.
-Someone before us planted the seed.
--Still need to be prepared
--But no need to be so scared
-Hustle every day-
-don't give up before you know.
-Make excellence a habit-
-then you find your flow.
-
-Set your sights on things above,
-always making time for those you love.
-Lend a hand when you can help
-others find their way.
-Encourage one another
-in what we choose to say.
-Thankful for the gifts we've been dealt in spades-
--Good looks, good hair, and brand new shades.
-
-Our Maker has the plan well in hand.
-Maybe we just sit back and enjoy the band.
-When we have the right co-pilot at our side,
-Maybe we just sit back and enjoy the ride.
-
-We can lose sight quick
-of things that really matter.
-In the back of our mind
 doubt and worry chatter.
-But it doesn't have to be as hard as it seems.
-Do the best you can;
+
+Can lose sight real quick
+
+of things that really matter.
+
+But faces and smiles we pass each day
+
+May hold clues that can guide our way.
+
+My Maker's got the plan well in hand.
+
+He wrote the book, hired the band.
+
+Gonna' do the best I can, and
+
 let Him worry about the in-betweens.
 
-He has the plan well in hand
--Wrote the book, hired the band
--So relax and enjoy the ride
+Just gonna' relax and enjoy the ride.
+
+No need for me to worry
+
+I got the right co-pilot by my side.
+
+Probably have everything we need.
+
+Someone before us planted the seed.
+
+-still need to be prepared
+
+-just no need to be so scared
+
+Make excellence a habit-
+
+And when you see your chance,
+
+Grab it.
+
+Soon you'll find your flow.
+
+And don't give up
+
+before you really know.
+
+My Maker's got the plan well in hand.
+
+He wrote the book, hired the band.
+
+Gonna' do the best I can, and
+
+let Him worry about the in-betweens.
+
+Just gonna' relax and enjoy the ride.
+
+No need for me to worry
+
+I got the right co-pilot by my side.
+
+Your Maker's got the plan well in hand.
+
+He wrote the book, hired the band.
+
+Just relax and enjoy the ride.
+
 No need to worry
-when He's the co-pilot by your side.`
+
+If you've got the right co-pilot by your side.`
   },
 
   {
@@ -2143,5 +2129,183 @@ Thought they fell on deaf ears
 all those years ago.
 And out of the blue, you hear yourself say,
 "You reap what you sow."`
+  },
+
+  {
+    id: "southland-lady",
+    title: "Southland Lady",
+    date: "April 1, 2026",
+    lyrics: `Walked right in wearing a smile from ear to ear.
+
+Oh, now we get it- look at his date!
+
+Well, buy that boy a beer!
+
+Yep, he knew to step up and make the first move.
+
+She's the kind that will make all things improve.
+
+Want a chance with her, better up your game.
+
+She raises the bar,
+
+and you'll never be the same.
+
+Might be time to step out of the dark and shady.
+
+And if you're lucky
+
+-find yourself a Southland Lady.
+
+She's a Baton Rouge beauty.
+
+She's a Mississippi cutie.
+
+She's a Georgia peach
+
+just outta' your reach.
+
+If class is one thing that never goes out of style,
+
+she's got it by a country mile.
+
+Like those before her
+
+-another proud Southland lady.
+
+Like those before her
+
+-still driving us all crazy.
+
+She's sunshine stacked across the board.
+
+With a gentle presence that can't be ignored.
+
+-Learned from the best how to run the show.
+
+Just ask her, she'll let you know.
+
+Want it done with style and grace?
+
+Better step up, and keep the pace.
+
+With silk scarf, pearls, and lips of red,
+
+she learned early how to knock 'em dead.
+
+She's a Baton Rouge beauty.
+
+She's a Mississippi cutie.
+
+She's a Georgia peach
+
+-just outta' your reach.
+
+If class is one thing that never goes out of style,
+
+she's got it by a country mile.
+
+Like those before her
+
+-another proud Southland lady.
+
+Like those before her
+
+-still driving us all crazy.`
+  },
+
+  {
+    id: "providence",
+    title: "Providence",
+    date: "April 1, 2026",
+    lyrics: `When I'm running in circles,
+
+trying to keep up.
+
+Never quite content,
+
+but refusing to look up.
+
+Spreading myself too thin,
+
+and the problems just surmount
+
+Our life is but a vapor,
+
+and I want my time to count.
+
+Lend me Thy ear, oh Lord of Host.
+
+Help me to focus on what pleases You most.
+
+Providence, it's a wonder,
+
+how You save me from myself?
+
+Preparing the way for me
+
+when I have nothing left.
+
+Walk with me in the garden
+
+as I meditate on Your word.
+
+Sit with me at the fountain,
+
+each word of my prayer is heard.
+
+When worry and regret seem to fill my mind,
+
+Providence, you go before me,
+
+time after time.
+
+Ever faithful, as I look to how far I've come.
+
+Providence, always working,
+
+merging His will and mine into one.
+
+Help me walk worthy
+
+as Your mercies fall anew.
+
+Help me walk worthy
+
+of Your friendship ever-true.
+
+Set my heart on things above.
+
+Fill me with your steadfast love.
+
+Find me always waiting,
+
+never pushing for my way.
+
+Find me ever joyful,
+
+resting in the love of my Father,
+
+day by day.
+
+Walk with me in the garden
+
+as I meditate on Your word.
+
+Sit with me at the fountain,
+
+each word of my prayer is heard.
+
+When worry and regret seem to fill my mind,
+
+Providence, you go before me,
+
+time after time.
+
+Ever faithful, as I look to how far I've come.
+
+Providence, always working,
+
+merging His will and mine into one.`
   }
 ];
