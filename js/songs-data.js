@@ -466,9 +466,8 @@ They planted seeds inside my heart, seeds of solid gold.`
 Given for country, by the name who gave me his name.
 A gentleman, a scholar, a Renaissance Man
 If you want to do a thing, just believe you can.
-
 A softness in his voice that some Southern men have
-Approachable, dignified, but no less bad......ass
+Approachable, dignified, but you don't want to see him mad.
 A Southern man, if his mama raised him right,
 won't let you down if you're in a fix and things get tight.
 
@@ -479,18 +478,34 @@ won't back down from any fight.
 
 Valuing tradition, having ambition, never running from competition
 If the red, white, and blue is flying, he's standing at attention.
-Proud of where he comes from, as imperfect as it may be.
-There's so much to respect, if you have eyes to see.
+Proud of where he comes from, even its imperfect past.
+Like many who came before him,
+-cool under pressure
+- a true bad ass.
 
 Quick to make a joke, most always a likeable dude
 Doesn't look for trouble, but won't just stand by if someone's rude.
 Don't want to face him in a one on one.
 Can always bet on him to get the job done.
 
-Lucky to call him friend, luckier still to call him Dad.
-Stay on his good side; you don't want to see him mad.
-Tough as nails on the outside,
-but insiders know the tender side.
+Carrying shot gun shells
+Answering early morning alarm bells
+Taking walks in the woods
+Sharing stories from childhoods
+Leaving things better than he found 'em
+That's why everyone wants to be around him.
+
+Man from the South always gives his all
+Be there, no problem -when he gets the call
+A Southern man, if assembled right,
+won't back down from any fight.
+
+Valuing tradition, having ambition, never running from competition
+If the red, white, and blue is flying, he's standing at attention.
+Proud of where he comes from, even its imperfect past.
+Like those who came before him,
+-cool under pressure
+- a true bad ass.
 
 Man from the South always gives his all
 Be there, no problem, -when he gets the call
@@ -500,27 +515,7 @@ won't back down from any fight.
 Valuing tradition, having ambition, never running from competition
 If the red, white, and blue is flying, he's standing at attention.
 Proud of where he comes from, as imperfect as it may be.
-There's so much to respect, if you have eyes to see.
-
-Made of shot gun shells
-and early morning alarm bells
-Takes walks in the woods
-shares stories from childhoods
-Makes time for what's important- faith, family and friendship
-and if you've earned it, he'll always leave a good tip.
-
-Leaves things better than he found 'em,
-That's why we all want to be around him.
-
-Man from the South always gives his all
-Be there, no problem, -when he gets the call
-A Southern man, if assembled right,
-won't back down from any fight.
-
-Valuing tradition, having ambition, never running from competition
-If the red, white, and blue is flying, he's standing at attention.
-Proud of where he comes from, as imperfect as it may be.
-There's so much to respect, if you have eyes to see.`
+Thankful for that Southern man standing beside me.`
   },
 
   {
