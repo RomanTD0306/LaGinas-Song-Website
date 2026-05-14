@@ -224,7 +224,7 @@ function initDemosSection() {
         const btn = document.createElement('button');
         btn.className = 'page-btn' + (i === currentPage ? ' active' : '');
         btn.textContent = i;
-        btn.addEventListener('click', () => { currentPage = i; render(); });
+        btn.addEventListener('click', () => { currentPage = i; render(); grid.closest('section').scrollIntoView({ block: 'start' }); });
         paginationEl.appendChild(btn);
       }
     }
@@ -232,8 +232,8 @@ function initDemosSection() {
 
   const prevBtn = document.getElementById('demos-prev');
   const nextBtn = document.getElementById('demos-next');
-  if (prevBtn) prevBtn.addEventListener('click', () => { if (currentPage > 1) { currentPage--; render(); } });
-  if (nextBtn) nextBtn.addEventListener('click', () => { if (currentPage < totalPages) { currentPage++; render(); } });
+  if (prevBtn) prevBtn.addEventListener('click', () => { if (currentPage > 1) { currentPage--; render(); grid.closest('section').scrollIntoView({ block: 'start' }); } });
+  if (nextBtn) nextBtn.addEventListener('click', () => { if (currentPage < totalPages) { currentPage++; render(); grid.closest('section').scrollIntoView({ block: 'start' }); } });
 
   render();
 }
