@@ -991,19 +991,29 @@ Summer 101, where livin' your best life is the number one lesson.`
     id: "we-were-old-school",
     title: "We Were Old School",
     date: "February 28, 2025",
-    lyrics: `Skynyrd, Elton, Michael, and Rod-
-top of our list before the ipod
-out til the sun went down,
-shooting baskets in the street.
-Got our laughs in real time.
--no such thing as a tweet.
-Remembered directions
-and phone numbers.
+    lyrics: `-Writing directions
+-Memorizing numbers
 Where does the time go?
 Everybody wonders.
+They say we look at the past
+through rose-colored glasses-
+our memories become more colorful
+as the time passes.
+We stayed out til the sun went down,
+shooting baskets in the street.
+We got our laughs in real time.
+-no such thing as a tweet.
+Concert t-shirts and T-tops
+got you street creds,
+and Mama's words were the alarms
+going off in our heads.
+There was no talkin' back
+-listened the first time.
+-knew what to expect
+things turned out just fine.
 
 We were old school-
-all that mattered was being cool.
+all that really mattered was being cool.
 -Drank our share of beer
 -Played our share of pool
 -told you face to face
@@ -1011,25 +1021,28 @@ if we had something important to say.
 Head held high, eye to eye
 -that was our way.
 No one second guessing our every move.
-Gave us time to think, time to find our groove.
+Gave us time to think,
+time to find our groove.
+Whatever happened,
+you just had to be there.
+Wanted to hear about it?
+-had to pull up a chair.
 
 Hours together, passing our days
-out by the pool soakin' up rays.
--on the phone all night
--lying in our beds.
-Mama's words were the alarms
-going off in our heads.
-There was no talkin' back
--listened the first time.
--knew what to expect
-things turned out just fine.
+out by the pool soakin' up rays
+Lynyrd, Michael, Elton, and Rod-
+top of our list before the ipod.
+Making the class laugh
+got you bonus points.
+Spent our weekends
+sneaking into juke joints.
 Five dollars could last us all week long.
 Somehow we always had enough.
 -Got by on our wits
 -wasn't that tough.
 
 We were old school-
-all that mattered was being cool.
+all that really mattered was being cool.
 -Drank our share of beer
 -Played our share of pool
 -told you face to face
@@ -1037,87 +1050,94 @@ if we had something important to say.
 Head held high, eye to eye
 -that was our way.
 No one second guessing our every move.
-Gave us time to think, time to find our groove.
-
-Making the class laugh
-got you bonus points.
-Spent our weekends
-trying to sneak into juke joints.
+Gave us time to think,
+time to find our groove.
 Whatever happened,
 you just had to be there.
 Wanted to hear about it?
 -had to pull up a chair.
+
 They say we look at the past
 through rose-colored glasses.
 Glad I was a kid in the 80's?
-You bet your asses.
-
-We were old school-
-all that mattered was being cool.
--Drank our share of beer
--Played our share of pool
--told you face to face
-if we had something important to say.
-Head held high, eye to eye
--that was our way.
-No one second guessing our every move.
--Gave us time to think, time to find our groove.
-No one second guessing our every move.
-Gave us time to think, time to find our groove.`
+You bet your asses.`
   },
 
   {
     id: "timings-everything",
     title: "Timing's Everything",
     date: "",
-    lyrics: `I didn't have a safety net.
+    lyrics: `Didn't have a safety net.
 It was always sink or swim.
 Searching for the golden ticket,
-but timing wasn't right way back then.
--Too hardheaded to see the forest for the trees.
-That's the story of our 20's- just did whatever we pleased.
+Timing wasn't right
+way back when.
+-too hard-headed to see
+the forest for the trees.
+That's the story of our 20's
+-just did whatever we pleased.
+She was headed in;
+I was headed out.
+Took a while for me to see
+what this life was all about.
+I was at the right party,
+but left a minute too soon.
+The band played all night,
+but I was humming another tune.
+It's been a dance with destiny
+all these many years.
+Drifting from this to that-
+held back by my fears.
 
-It's been a dance with destiny all these many years.
-Drifting from this to that- held back by my fears.
-
-But timing's everything,
--And no matter how far you get off track,
+-But "Timing's everything."
+You'll see it the more you look.
+It's in the twist of fate-
+already written in the book.
+Destiny waiting patiently-
+I kept opening the wrong door.
+Funny how the signs were there,
+had I known what I was looking for.
+They say, "Timing's everything,"
+-and no matter how far you get off track,
 Down the road you'll see,
-Destiny always circles back.
+Destiny may just circle back.
 
-I was at the right party but left a minute too soon.
-The band played all night, but I was humming another tune.
-She was headed in; I was headed out.
-Took a while for me to see what this life was all about.
+Each day is a gamble-
+searching for the right card to play.
+Somewhere between our thoughts
+and what we actually say.
+She's the girl you can't seem
+to get off your mind.
+Around the next corner,
+it's her you just might find.
+She'll leave you hints;
+she'll leave her calling card.
+Then outta' nowhere,
+everything falls into place,
+catches you off guard.
+The stars weren't aligned
+way back when-
+but keep on going-
+cause in the end,
+you just might win.
+It's been a dance with destiny
+all these many years.
+Drifting from this to that-
+held back by my fears.
 
-Wish I'd known then, but it wasn't the right time.
--Lots of lost conversations, before the words would rhyme
-Funny how the signs were there, had I known what I was looking for.
-Destiny waiting patiently- I kept opening the wrong door.
-
-But timing's everything,
--And no matter how far you get off track,
-Down the road you'll see,
-Destiny always circles back.
-
-Timing's everything. You'll see it the more you look.
-It's in the twist of fate- already written in the book.
-Each day is a gamble- searching for the right card to play.
-Somewhere between our thoughts and what we actually say.
-
-She's the girl you just can't get off your mind.
-Around the next corner, it's her you just might find.
-She'll leave you hints; she'll leave her calling card.
-All the sudden, everything falls into place-
-won't be very hard.
-
-It wasn't the time back then-
-Now's the time to win.
-You know that timing's everything,
--And no matter how far you get off track,
-Down the road you'll surely see,
-Destiny always circles back.
-
+They say, "Timing's everything."
+You'll see it the more you look.
+It's in the twist of fate-
+already written in the book.
+Destiny waiting patiently-
+I kept opening the wrong door.
+Funny how the signs were there,
+had I known what I was looking for.
+But it's true- "Timing's everything,"
+-and no matter how far you get off track,
+down the road you'll see,
+Destiny just may circle back.
+No matter how far you get off track,
 Destiny has a way of circling right back.`
   },
 
@@ -2207,6 +2227,330 @@ Like those before her
 Like those before her
 
 -still driving us all crazy.`
+  },
+
+  {
+    id: "if-i-could-bottle-it",
+    title: "If I Could Bottle It",
+    date: "",
+    lyrics: `Common sense seems lost.
+Grit- a thing of the past
+Wish could see more of these
+traits that are rare- but meant to last.
+Same mistake, different day
+Hearing the worst in everything I say
+Over-complicating the simplest task
+Wearing manipulation like a mask
+Drama always. Everything an issue.
+Things don't go her way
+-gotta' hand her a tissue.
+Draining my energy
+-nothing ever good.
+Wouldn't wish this on anyone
+-even if I could.
+
+"Don't make 'em as quick as they once did,
+or do they?"
+Old fashion common sense
+-in this world it's rare
+If I could bottle it,
+I'd be a millionaire.
+Some can't see the forest for the trees.
+Anyone out there?
+Can I get an "Amen," please!
+
+Common sense seems lost.
+Grit- a thing of the past
+Wish could see more of these
+traits that are rare- but meant to last.
+He makes no joke at another's expense
+Ever the compliment found on his lips
+Never rushing for his turn to speak
+Ever humble, but I wouldn't say meek
+Looks at the best,
+full of cheer when he's near.
+Good-natured, with a calm heart
+Won't back away in the face of fear
+Can't keep him down for too long
+Tough as nails, lion-heart strong
+
+"Don't make 'em like that anymore,
+or do they?"
+Old fashion grit
+-some have plenty to spare.
+If I could bottle it,
+I'd be a millionaire.
+A life of purpose is better than a life of ease.
+Anyone out there?
+Can I get an "Amen," please!`
+  },
+
+  {
+    id: "show-out",
+    title: "Show-Out",
+    date: "",
+    lyrics: `-Been showin' out
+since far back as I can remember.
+-Couldn't resist the awe and respect
+a dare would often render.
+If a thing was tough,
+I wanted to give it a try.
+-left me with my share of scars
+-often led to regret, by and by.
+Livin' to impress is a hard life to lead.
+-comes from some deep drive
+-a will to succeed.
+-can't help but get pulled in
+to all the hype and all the glory.
+If your life were a book,
+would anyone want to read the story?
+
+Been what some may call a "show-out"
+-since long as I can remember.
+Just another sell-out
+to the respect this life can render.
+Is it a curse,
+or is it Heaven-sent?
+-a sucker for the spotlight
+or a glutton for punishment?
+If a challenge is there,
+it becomes a goal that will not fade.
+-just something in our blood,
+-just how we were made.
+-Striving to get it done,
+come hell or high water
+But in the end, I'm just the clay.
+Ultimately, He's the potter.
+
+If it's hard, count us in.
+-need a reason to work.
+-gotta' prove the naysayers wrong
+when they're wearin' a little smirk.
+It's a drive that wakes us up at night
+-the will to not give up
+until it's "just right."
+Always been the way
+for show-outs like us
+-just figure it out;
+don't make a big fuss.
+If I see you on the street,
+I'll give you a little nod
+-Cause I understand ours
+is not the easiest path to trod.
+Keep up the good work,
+my fellow show-out,
+Cause you're living
+what this life
+is all about.
+
+Been what some may call a "show-out"
+-since long as I can remember.
+Just another sell-out
+to the respect this life can render.
+Is it a curse,
+or is it Heaven-sent?
+-a sucker for the spotlight
+or a glutton for punishment?
+If a challenge is there,
+it becomes a goal that will not fade.
+-just something in our blood,
+-just how we were made.
+-Striving to get it done,
+come hell or high water
+But in the end, I'm just the clay.
+Ultimately, He's the potter.`
+  },
+
+  {
+    id: "no-matter-how-you-slice-it",
+    title: "No Matter How You Slice It",
+    date: "",
+    lyrics: `I have a habit of dismissing what's good-
+I think about what went wrong
+more than I should.
+When it comes easy,
+I take it for granted-
+Focus on what's missing;
+my view becomes slanted.
+First hiccup in my plan,
+and all the sudden, I'm a doubter.
+Started out an up-and-comer,
+now a down-and-outer.
+That's when I stop and think on the past-
+let wisdom of old guide my way.
+What would my grandpa do?
+What would my grandma say?
+
+No matter what you do,
+some people won't like you a bit.
+And some things hold true,
+no matter how you slice it.
+Tennis players have the prettiest legs.
+-College kids always scheming how to get beer kegs
+You don't wear a ball cap to yoga practice.
+Good manners and charm
+can easily distract us.
+You can't get it back,
+once the page is turned,
+and some truths in life
+aren't easily learned.
+
+I have a habit of putting the cart before the horse.
+Want things my way,
+so my plans- I force.
+Next thing you know,
+I've said words I'll regret.
+Think I have to be perfect-
+won't let myself forget.
+But life's a journey,
+and some days are better than others.
+Wonder if I'll ever get it right,
+as each new dawn hovers.
+That's when I stop and think on the past-
+let wisdom of old guide my way.
+What would my grandpa do?
+What would my grandma say?
+
+A humble heart looks good
+with every single outfit.
+And the truth brings freedom,
+no matter how you slice it.
+Don't be afraid to apologize
+when the time is right.
+Forgive and forget-
+don't go looking for a fight.
+Negative people are always dead weight.
+Go to bed early
+if you want to be the first outta the gate.
+You can't get it back,
+once the page is turned,
+and some truths in life aren't easily learned.`
+  },
+
+  {
+    id: "race-to-run",
+    title: "Race to Run",
+    date: "",
+    lyrics: `Wonder how many give up
+right before the win?
+-lose their faith,
+let doubt and worry in.
+Sometimes feels like it's time
+to throw in the towel,
+but Victory may loom.
+It's His strength we must channel.
+Continuous uphill battles,
+too many dead-ends-
+Sometimes feels like the good guy
+never really wins.
+Just when I start to believe
+all hope is lost,
+I remember He sets the pace,
+and I'm not the boss.
+
+Let Him set the pace.
+Take hold of His grace.
+To win the race, crush fear with haste.
+He will provide a way for me.
+His victory is worth the wait.
+If God is in it with me,
+He will make the path straight.
+
+Wonder how many remember
+what I forget immediately.
+Those helped along the journey
+-maybe one day I'll see.
+Depending on the one who hung the stars,
+with the rise of each new sun,
+It's a path designed for me alone,
+my part to play, my race to run.
+Day by day, step by step,
+and turn by turn,
+the closer I will come.
+No other can do it for me;
+we all have our own story.
+So I keep pressing forward
+to receive a crown of glory.
+
+Let Him set the pace.
+Take hold of His grace.
+To win the race, crush fear with haste.
+He will provide a way for me.
+His victory is worth the wait.
+If God is in it with me,
+He will make the path straight.
+
+Run the race til the prize is won,
+And you hear the words,
+"Well done, good and faithful one."`
+  },
+
+  {
+    id: "if-these-walls-could-talk",
+    title: "If These Walls Could Talk",
+    date: "",
+    lyrics: `It's a string of firsts
+followed by a trail of lasts.
+It's the laughs and the tears
+found along our paths.
+We played board games while the sun was high.
+Then filled up on Kool-aide,
+and outside we would fly.
+Mom was in the kitchen
+working on our favorite treat.
+Then it's to the cookie jar,
+where we all try to sneak.
+Plenty of wisdom sprinkled into each day.
+Enough to help when we'd lost our way.
+
+If these walls could talk,
+Oh! The stories they'd tell
+-of trials and strife
+-of joy and life
+-of beginnings and ends
+-and time now lost.
+We loved through it all
+-no one counting the cost.
+
+Moving through our days
+making to-do lists and adding checks.
+Who'd you talk to?
+What's happening next?
+Doing what's right, no matter how it feels.
+Brothers and sisters brokering deals.
+Can I have this?
+You took it from me.
+Can I borrow that?
+You still owe me.
+And so it goes with our family tree.
+Homecooked meals,
+sharing the news of the day.
+Talking around the table-
+everyone waiting to have a say.
+
+If these walls could talk,
+Oh! The stories they'd tell
+-of trials and strife
+-of joy and life
+-of beginnings and ends
+-and time now lost.
+We loved through it all
+-no one counting the cost.
+
+Robbing Peter to pay Paul
+-sticking together through it all.
+So it goes with our family tree.
+And within these walls,
+there's still a piece of me.
+
+If these walls could talk,
+Oh! The stories they'd tell
+-of trials and strife
+-of joy and life
+-of beginnings and ends
+-and time now lost.
+We loved through it all
+-no one counting the cost.`
   },
 
   {
