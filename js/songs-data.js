@@ -987,12 +987,18 @@ Someone's going to win, I'm betting on me.`
     id: "summer-101",
     title: "Summer 101",
     date: "June 26, 2025",
-    lyrics: `Welcome to Summer 101-
-A master's class for having fun.
-You've signed up for the thrill of this moment in time,
-where the days roll by fast and can feel sublime.
-Call up your buddies and tell 'em class is in session.
-Summer 101, where livin' your best life is the number one lesson.
+    lyrics: `Finally here,
+I've waited all year
+to feel the Gulf breeze,
+to do what I please,
+to sleep late,
+to have a first date.
+Sun-kissed tan, new dress to wear,
+moving through time without a care.
+Vacay's on tap.
+The work day's a wrap.
+So, out my way,
+gotta' catch that last sun ray.
 
 Grab an avocado and find a lime.
 This is a class that starts on your time.
@@ -1008,24 +1014,17 @@ where the days roll by fast and can feel sublime.
 Call up your buddies and tell 'em class is in session.
 Summer 101, where livin' your best life is the number one lesson.
 
+Gotta make some spending money if I want to get an A.
+But Summer 101's not all work and no play.
+It's a class that never goes out of style.
+It's a moment in time and will stay with you for a while.
+
 -Quick trip to the beach to taste the salt air
 Roll down the windows, let the girls all stare.
 Combing the beach, looking for more than shells
 Girls in bikinis, wishing for wedding bells
 Grab your shades, the ones that make you look famous.
 Bring the beach towel too; let's see where the day takes us.
-
-Welcome to Summer 101-
-A master's class for having fun.
-You've signed up for the thrill of this moment in time,
-where the days roll by fast and can feel sublime.
-Call up your buddies and tell 'em class is in session.
-Summer 101, where livin' your best life is the number one lesson.
-
-Gotta make some spending money if I want to get an A.
-But Summer 101's not all work and no play.
-It's a class that never goes out of style.
-It's a moment in time and will stay with you for a while.
 
 So let the summer breeze blow you off course for just a bit.
 Take your best swing; you just may get a solid hit.
@@ -2217,6 +2216,10 @@ She raises the bar,
 
 and you'll never be the same.
 
+-Cause a Carolina catch will make a good match,
+
+and a Tennessee grin will make your heart spin.
+
 Might be time to step out of the dark and shady.
 
 And if you're lucky
@@ -2229,11 +2232,7 @@ She's a Mississippi cutie.
 
 She's a Georgia peach
 
-just outta' your reach.
-
-If class is one thing that never goes out of style,
-
-she's got it by a country mile.
+-just outta' your reach.
 
 Like those before her
 
@@ -2259,6 +2258,20 @@ With silk scarf, pearls, and lips of red,
 
 she learned early how to knock 'em dead.
 
+Yep, if she hails from Alabam,
+
+she'll turn your world upside down.
+
+And if Florida is the place she loves best,
+
+she's sure to pass every test.
+
+Might be time to step out of the dark and shady.
+
+And if you're lucky
+
+-find yourself a Southland Lady.
+
 She's a Baton Rouge beauty.
 
 She's a Mississippi cutie.
@@ -2267,15 +2280,55 @@ She's a Georgia peach
 
 -just outta' your reach.
 
-If class is one thing that never goes out of style,
+Like those before her
 
-she's got it by a country mile.
+-another proud Southland lady.
+
+Like those before her
+
+-still driving us all crazy.
+
+Others haven't quite started.
+
+She hasn't quite stopped.
+
+She's marking tasks off her list
+
+-catching what others missed.
+
+She's working the room
+
+-Making time for a chat
+
+-got the boys wondering, "Where's that girl at?"
+
+-Soft-spoken, never forcing her way
+
+-Lights up the room like a sun ray
+
+One smile from her
+
+can make your day!
+
+-and if class is one thing that never goes out of style,
+
+She's got it by a country mile.
+
+She's a Baton Rouge beauty.
+
+She's a Mississippi cutie.
+
+She's a Georgia peach
+
+-just outta' your reach.
 
 Like those before her
 
 -another proud Southland lady.
 
 Like those before her
+
+-still driving us all crazy.
 
 -still driving us all crazy.`
   },
