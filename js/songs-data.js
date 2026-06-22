@@ -1,5 +1,62 @@
 const SONGS = [
   {
+    id: "arrows-of-evil",
+    title: "Arrows of Evil",
+    date: "June 22, 2026",
+    lyrics: `Relentless attacks, arrows of evil fly.
+Can't avoid them, no matter how I try.
+One arrow sent to isolate
+ -so I feel cold-hearted and alone-
+But I am meant for fellowship,
+not a heart of stone.
+One arrow sent to deceive
+-so I feel it doesn't really matter-
+But I am meant to press on,
+-everything's not handed
+on a silver platter.
+One arrow sent to spark envy,
+-so I feel I deserve more-
+stop counting my blessings,
+causing me to be less, not more.
+For on wings like eagles,
+I am meant to soar.
+The devil comes daily to steal and destroy.
+Be ready for his arrows, ever so coy.
+Lies dressed up to look so attractive.
+Rely on God's word, which is alive and active.
+God goes before me; His plans are full made.
+Do not let your heart be troubled or afraid.
+Relentless attacks, arrows of evil fly.
+Can't avoid them, no matter how I try.
+One arrow sent to criticize
+-so I feel defeated and never start,
+But My Savior walks beside me
+ to calm my weary heart.
+One arrow sent to confuse
+-so I forget the truth.
+But His promises have never failed me,
+from the days of my youth.
+One arrow sent to cause me
+to settle for less
+-so I never really try
+or do my best.
+Life in abundance, joy in store,
+For on wings like eagles,
+I am meant to soar.
+The devil comes daily to steal and destroy.
+Be ready for his arrows, ever so coy.
+Lies dressed up to look so attractive.
+Rely on God's word, alive and active.
+God goes before me; His plans are full made.
+Do not let your heart be troubled or afraid.
+Connected to one another in brotherly love
+Created for greatness by our Father above
+Step forward in faithfulness; share His love,
+Knowing His Angels guard from above.
+Thankful His Angels guard from above.`
+  },
+
+  {
     id: "to-save-the-day",
     title: "To Save the Day",
     date: "March 18, 2026",
@@ -706,7 +763,7 @@ Just a while`
     title: "Jaw Drop Song",
     date: "February 5, 2025",
     lyrics: `Been turning it over in my head
--all the comebacks I wish I'd said
+-all the comebacks I wish I'd said.
 It was time to part our ways.
 -would lead to better days.
 You drove away.
@@ -718,53 +775,47 @@ Handed my walking papers
 -used them to fan the flame.
 -stubborn as those who came before me
 carrying my same last name.
-
 Yep, I was dismissed, alright.
-But you just hold tight.
-Always knew this day would come
--didn't know route it would take.
--and seeing your jaw drop
-is icing on the cake.
-
-Just can't help but smile
--seeing your jaw drop.
--Cause anyone who knows can tell ya'
--the cream always rises to the top.
-
-Lots of morning prayers
-whispered over that coffee cup.
-Thinking of it now-
-you and I would have never added up.
-
+-But you just hold tight.
 Needed to learn a few lessons,
 -chin up…on my face a smile.
 Didn't realize then
 I was on the right track
 all the while.
-
+Always knew this day would come
+-didn't know the route it would take.
+-but seeing your jaw drop
+is icing on the cake.
+Just can't help but smile
+-seeing your jaw drop.
+-Cause anyone who knows can tell ya'
+-the cream always rises to the top.
+Lots of morning prayers
+whispered over that coffee cup.
+Thinking of it now-
+you and I would have never added up.
+Could of caught me on my way up
+-foolish as I was
+thinking you were the only one.
+Told me I couldn't do it,
+ now you'll see just how it's done.
 On a wing and a prayer,
 it all worked out
 believed and took a chance.
 -just may have needed that little push,
 upon second glance.
-
+Always knew this day would come
+-didn't know the route it would take
+but seeing your jaw drop
+is icing on the cake.
+Just can't help but smile
+-seeing your jaw drop.
 Could of caught me on my way up
 -foolish as I was
 thinking you were the only one.
-Told me I couldn't do it.
-Now you'll see just how it's done.
-
-Yep, I was dismissed, alright.
-But you just hold tight.
-Always knew this day would come
--didn't know route it would take
-and seeing your jaw drop
-is icing on the cake.
-
-Just can't help but smile
--seeing your jaw drop.
-'Cause anybody who knows can tell ya'
--the cream always rises to the top.`
+Told me I couldn't do it;
+now you'll see just how it's done.
+Now you'll see just how it's done.`
   },
 
   {
