@@ -3,6 +3,7 @@ const SONGS = [
     id: "arrows-of-evil",
     title: "Arrows of Evil",
     date: "June 22, 2026",
+    categories: ["christian"],
     lyrics: `Relentless attacks, arrows of evil fly.
 Can't avoid them, no matter how I try.
 One arrow sent to isolate
@@ -60,6 +61,7 @@ Thankful His Angels guard from above.`
     id: "to-save-the-day",
     title: "To Save the Day",
     date: "March 18, 2026",
+    categories: ["christian"],
     lyrics: `Grasping for treasures yet unseen,
 Trying to sort it, and times are lean.
 You can bet the devil will try to steal your joy.
@@ -116,6 +118,7 @@ This is one thing that we all know.`
     id: "cant-buy-back-time",
     title: "Can't Buy Back Time",
     date: "July 2, 2025",
+    categories: ["country"],
     lyrics: `We thought we were barely getting' by.
 Coolest in the room and didn't have to try.
 -Thought I'd always have you right there on the hook.
@@ -170,6 +173,7 @@ Try as you may, you can't buy back time.`
     id: "front-porch-swing",
     title: "Front Porch Swing",
     date: "April 2, 2025",
+    categories: ["country"],
     lyrics: `-Running the rat race,
 don't want to miss our turn
 -Walk right by without saying a word
@@ -230,6 +234,7 @@ and a sturdy wooden swing.`
     id: "late-bloomers",
     title: "Late Bloomers",
     date: "June 7, 2025",
+    categories: ["country"],
     lyrics: `Do you remember the girl who sat at the table behind us in 10th grade?
 Yep, she's come a long way from braces
 and piano lessons after school.
@@ -305,6 +310,7 @@ in the sparkle of their eyes.`
     id: "no-one-but-me",
     title: "No One But Me",
     date: "",
+    categories: ["country"],
     lyrics: `Facebook was not my friend
 And still it's not today
 I want to see your face
@@ -365,6 +371,7 @@ Keeping it real, just me and you`
     id: "something-lasting",
     title: "Something Lasting",
     date: "",
+    categories: ["christian"],
     lyrics: `Your ways are higher; your view is all encompassing
 Your reach is perfection; your goodness overarching
 Direct my steps, in my heart light a fire
@@ -424,6 +431,7 @@ something to echo throughout time`
     id: "hard-hearted",
     title: "Hard-hearted",
     date: "",
+    categories: ["christian"],
     lyrics: `Short-tempered, short-sighted, short on funds for sure
 Day turns into night; life passes in a blur.
 Living by my own rules, me, myself, and I
@@ -472,6 +480,7 @@ Keep your word in my heart, never far from mind.`
     id: "seeds-we-sow",
     title: "Seeds We Sow",
     date: "",
+    categories: ["country", "christian"],
     lyrics: `Bits of pieces....conversations ....years of words said
 Some play on repeat.....spinning round in my head
 I was headed one way....then a word...and I change on a dime
@@ -519,8 +528,9 @@ They planted seeds inside my heart, seeds of solid gold.`
     id: "southern-man",
     title: "Southern Man",
     date: "",
+    categories: ["country"],
     lyrics: `Here's the Purple Heart, placed nicely in the frame,
-Given for country, by the name who gave me his name.
+Given for country, by the man who gave me his name.
 A gentleman, a scholar, a Renaissance Man
 If you want to do a thing, just believe you can.
 A softness in his voice that some Southern men have
@@ -579,6 +589,7 @@ Thankful for that Southern man standing beside me.`
     id: "make-our-words-praiseworthy",
     title: "Make Our Words Praiseworthy",
     date: "",
+    categories: ["christian"],
     lyrics: `The joy of the Lord,
 living water from within
 He's closer than we think,
@@ -657,6 +668,7 @@ of Your good and perfect gifts.`
     id: "louisiana-love",
     title: "Louisiana Love",
     date: "October 2, 2025",
+    categories: ["country"],
     lyrics: `Abita Springs,
 Mockingbird sings,
 Majestic oaks, Cypress knees.
@@ -706,6 +718,7 @@ for you there'll be no other; your Louisiana love will ever bloom.`
     id: "my-20-year-old-self",
     title: "My 20-year-old Self",
     date: "",
+    categories: ["country"],
     lyrics: `Moonlight breaking through the dark
 Memories aching in my heart
 Standing here the product of all I've done,
@@ -762,6 +775,7 @@ Just a while`
     id: "jaw-drop-song",
     title: "Jaw Drop Song",
     date: "February 5, 2025",
+    categories: ["country"],
     lyrics: `Been turning it over in my head
 -all the comebacks I wish I'd said.
 It was time to part our ways.
@@ -822,6 +836,7 @@ Now you'll see just how it's done.`
     id: "my-beach-town",
     title: "My Beach Town",
     date: "July 23, 2025",
+    categories: ["country"],
     lyrics: `The ball game may not have gone the way we would like
 -But still planning on a bonfire this Friday night.
 Classmates all there for Monday morning roll call
@@ -883,6 +898,7 @@ just the sunset and me`
     id: "the-river-of-grace",
     title: "The River of Grace",
     date: "July 21, 2025",
+    categories: ["christian"],
     lyrics: `This world brings lies meant to steal my joy,
 -Promising all I need is another shiny, new toy,
 -Leaving me empty and alone with regrets of my past
@@ -931,6 +947,7 @@ My portion- forever, faithfully mine.`
     id: "winners-circle",
     title: "Winners' Circle",
     date: "July 10, 2025",
+    categories: ["country"],
     lyrics: `Alarm goes off before the sun.
 The journey is completed by only some.
 Early to bed,
@@ -987,6 +1004,7 @@ Someone's going to win, I'm betting on me.`
     id: "summer-101",
     title: "Summer 101",
     date: "June 26, 2025",
+    categories: ["country"],
     lyrics: `Finally here,
 I've waited all year
 to feel the Gulf breeze,
@@ -1041,6 +1059,7 @@ Summer 101, where livin' your best life is the number one lesson.`
     id: "we-were-old-school",
     title: "We Were Old School",
     date: "February 28, 2025",
+    categories: ["country"],
     lyrics: `-Writing directions
 -Memorizing numbers
 Where does the time go?
@@ -1117,6 +1136,7 @@ You bet your asses.`
     id: "timings-everything",
     title: "Timing's Everything",
     date: "",
+    categories: ["country"],
     lyrics: `Didn't have a safety net.
 It was always sink or swim.
 Searching for the golden ticket,
@@ -1195,6 +1215,7 @@ Destiny has a way of circling right back.`
     id: "sword-of-the-spirit",
     title: "Sword of the Spirit",
     date: "June 29, 2025",
+    categories: ["christian"],
     lyrics: `In this world of competition, comparing, and strife,
 it's easy to lose sight of the simple truth of life.
 It's easy to focus on what we don't have or what we lack.
@@ -1245,6 +1266,7 @@ Stop fear in its tracks, give no foothold or traction.`
     id: "steps-we-trace",
     title: "Steps We Trace",
     date: "",
+    categories: ["christian"],
     lyrics: `Her finger traces the words
 of the dearly loved hymn.
 My eyes follow closely,
@@ -1307,6 +1329,7 @@ With an unfailing love
     id: "a-wing-and-a-prayer",
     title: "A Wing and a Prayer",
     date: "",
+    categories: ["country", "christian"],
     lyrics: `Ride by this vacant lot,
 -Abandoned but a diamond in the rough
 Can't anyone else see?
@@ -1372,6 +1395,7 @@ Going from here to there.`
     id: "to-sit-in-the-circle",
     title: "To Sit in the Circle",
     date: "February 14, 2025",
+    categories: ["christian"],
     lyrics: `He calls me each day
 in the quiet early dawn-
 the morning dew fresh
@@ -1446,6 +1470,7 @@ I see face-to-face.`
     id: "moon-roof-song",
     title: "Moon-roof Song",
     date: "January 31, 2025",
+    categories: ["country"],
     lyrics: `She turned every boy's head
 driving by in her flashy red sports car.
 She sat behind me, and
@@ -1512,6 +1537,7 @@ the stars were shining bright.`
     id: "rear-view-focus",
     title: "Rear-view Focus",
     date: "January 31, 2025",
+    categories: ["country"],
     lyrics: `The road stretched out before me,
 a cup of coffee in my hand.
 -Reliving that first place ribbon
@@ -1598,6 +1624,7 @@ seeing memories that last forever.`
     id: "a-long-line-of-ladies",
     title: "A Long Line of Ladies",
     date: "February 20, 2025",
+    categories: ["country"],
     lyrics: `I watched her at the mirror,
 red lipstick in her hand.
 -Filling my heart with pride,
@@ -1665,6 +1692,7 @@ Thankful to be a daughter they raised`
     id: "guiding-me",
     title: "Living in the Fullness",
     date: "March 12, 2025",
+    categories: ["christian"],
     lyrics: `I'm continually stumbling
 way out of bounds.
 You're patiently turning
@@ -1734,6 +1762,7 @@ and faithful child."`
     id: "lean-into-me",
     title: "Lean into Me",
     date: "April 1, 2025",
+    categories: ["christian"],
     lyrics: `-Found in the dust-covered book
 Take it off the shelf.
 Have a look.
@@ -1800,6 +1829,7 @@ Throw off your pride; become meek
     id: "wishing-for-tomorrow",
     title: "Wishing for Tomorrow",
     date: "February 12, 2025",
+    categories: ["country"],
     lyrics: `Diamonds slipping from my hand
 Like the waves crashing against the sand
 A well-timed phrase –
@@ -1887,6 +1917,7 @@ Keep it on the straight and narrow.`
     id: "mountains-to-move",
     title: "Mountains to Move",
     date: "March 3, 2025",
+    categories: ["christian"],
     lyrics: `This ole world can beat us down.
 But Jesus gave us the words that drown
 all the doubt and worry that come
@@ -1954,6 +1985,7 @@ It's time for mountains to move.`
     id: "sunset-coast-schemers",
     title: "Sunset Coast Schemers",
     date: "February 24, 2025",
+    categories: ["country"],
     lyrics: `Don't have a clue what teacher just said.
 -Just scored a touchdown in my head.
 What's got you so interested
@@ -2017,6 +2049,7 @@ Doubt me? -Just ask one.`
     id: "the-co-pilot-by-your-side",
     title: "The Co-pilot by your Side",
     date: "February 25, 2025",
+    categories: ["country", "christian"],
     lyrics: `Some say luck is blind,
 
 or the stars were aligned.
@@ -2112,6 +2145,7 @@ If you've got the right co-pilot by your side.`
     id: "let-him-call-you",
     title: "Let Him Call You",
     date: "January 30, 2025",
+    categories: ["country"],
     lyrics: `The screen door slams.
 I say, "Yes, mam,"
 and quickly walk away.
@@ -2200,6 +2234,7 @@ And out of the blue, you hear yourself say,
     id: "southland-lady",
     title: "Southland Lady",
     date: "April 1, 2026",
+    categories: ["country"],
     lyrics: `Walked right in wearing a smile from ear to ear.
 
 Oh, now we get it- look at his date!
@@ -2337,6 +2372,7 @@ Like those before her
     id: "if-i-could-bottle-it",
     title: "If I Could Bottle It",
     date: "",
+    categories: ["country"],
     lyrics: `Common sense seems lost.
 Grit- a thing of the past
 Wish could see more of these
@@ -2393,6 +2429,7 @@ Can I get an "Amen," please!`
     id: "show-out",
     title: "Show-Out",
     date: "",
+    categories: ["country"],
     lyrics: `-Been showin' out
 since far back as I can remember.
 -Couldn't resist the awe and respect
@@ -2469,6 +2506,7 @@ Ultimately, He's the potter.`
     id: "no-matter-how-you-slice-it",
     title: "No Matter How You Slice It",
     date: "",
+    categories: ["country"],
     lyrics: `I have a habit of dismissing what's good-
 I think about what went wrong
 more than I should.
@@ -2535,6 +2573,7 @@ and some truths in life aren't easily learned.`
     id: "race-to-run",
     title: "Race to Run",
     date: "",
+    categories: ["christian"],
     lyrics: `Wonder how many give up
 right before the win?
 -lose their faith,
@@ -2593,6 +2632,7 @@ And you hear the words,
     id: "if-these-walls-could-talk",
     title: "If These Walls Could Talk",
     date: "",
+    categories: ["country"],
     lyrics: `It's a string of firsts
 followed by a trail of lasts.
 It's the laughs and the tears
@@ -2661,6 +2701,7 @@ We loved through it all
     id: "providence",
     title: "Providence",
     date: "April 1, 2026",
+    categories: ["christian"],
     lyrics: `When I'm running in circles,
 
 trying to keep up.

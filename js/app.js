@@ -17,10 +17,12 @@ function renderLyrics(text) {
 function initIndexPage() {
   const grid = document.getElementById('songs-grid');
   const input = document.getElementById('song-search');
+  const filterBar = document.getElementById('category-filters');
   if (!grid) return;
 
   const PAGE_SIZE = 21;
   let currentPage = 1;
+  let currentCategory = 'all';
 
   function renderCards(songs) {
     grid.innerHTML = '';
@@ -79,8 +81,8 @@ function initIndexPage() {
     const term = (filter || '').toLowerCase().trim();
     const isSearching = term.length > 0;
     const matches = SONGS.filter(s =>
-      s.title.toLowerCase().includes(term) ||
-      s.lyrics.toLowerCase().includes(term)
+      (currentCategory === 'all' || s.categories.includes(currentCategory)) &&
+      (s.title.toLowerCase().includes(term) || s.lyrics.toLowerCase().includes(term))
     );
 
     if (isSearching) {
@@ -90,6 +92,18 @@ function initIndexPage() {
       renderCards(matches.slice(start, start + PAGE_SIZE));
     }
     updateNav(matches.length, isSearching);
+  }
+
+  if (filterBar) {
+    filterBar.addEventListener('click', (e) => {
+      const btn = e.target.closest('.filter-btn');
+      if (!btn) return;
+      filterBar.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentCategory = btn.dataset.category;
+      currentPage = 1;
+      render(input ? input.value : '');
+    });
   }
 
   const prevBtn = document.getElementById('songs-prev');
@@ -128,13 +142,16 @@ function initIndexPage() {
 function initSongsPage() {
   const grid = document.getElementById('songs-grid');
   const input = document.getElementById('song-search');
+  const filterBar = document.getElementById('category-filters');
   if (!grid) return;
+
+  let currentCategory = 'all';
 
   function render(filter) {
     const term = (filter || '').toLowerCase().trim();
     const matches = SONGS.filter(s =>
-      s.title.toLowerCase().includes(term) ||
-      s.lyrics.toLowerCase().includes(term)
+      (currentCategory === 'all' || s.categories.includes(currentCategory)) &&
+      (s.title.toLowerCase().includes(term) || s.lyrics.toLowerCase().includes(term))
     );
     grid.innerHTML = '';
     if (matches.length === 0) {
@@ -147,6 +164,17 @@ function initSongsPage() {
       a.href = 'song.html?id=' + song.id;
       a.innerHTML = '<span class="song-card-title">' + song.title + '</span>';
       grid.appendChild(a);
+    });
+  }
+
+  if (filterBar) {
+    filterBar.addEventListener('click', (e) => {
+      const btn = e.target.closest('.filter-btn');
+      if (!btn) return;
+      filterBar.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentCategory = btn.dataset.category;
+      render(input ? input.value : '');
     });
   }
 
