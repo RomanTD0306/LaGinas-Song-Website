@@ -1,5 +1,205 @@
 const SONGS = [
   {
+    id: "most-clever",
+    title: "Most Clever",
+    date: "July 28, 2026",
+    categories: ["country", "christian"],
+    lyrics: `-Another dead-end
+in a long string of hopes.
+This world's got my back
+up against the ropes.
+Looking for the answers
+from faces I pass on my way.
+Give me the message I search for
+in the words you say.
+But there is no magic potion,
+have to just face the day.
+I know this too won't last forever.
+-and it gives me a chance
+to be my "most clever."
+
+-Keep telling myself the right things
+til I finally believe 'em.
+-Keep doing what I ought to
+til benefits, I reap 'em.
+-Keep thinking what it could be
+as I'm dreamin' my reality.
+Got biscuits in the oven,
+A Bentley in the drive,
+There's beauty in each moment.
+-best enjoy the ride.
+
+Taking little steps
+from one day to the next.
+Is it just a waste of time?
+Got me so perplexed.
+Casting worn-out wishes
+into a dried-up fountain.
+Searching for a way around it,
+gotta' move this mountain.
+Isn't it more fun
+when there's some sort of challenge?
+Most wouldn't have it
+any other way.
+Look at their actions
+more than what they say.
+They know the problems
+won't last forever.
+-and it gives 'em a chance
+to be their "most clever."
+
+-Keep telling myself the right things
+til I finally believe 'em.
+-Keep doing what I ought to
+til benefits, I reap 'em.
+-Keep thinking what it could be
+as I'm dreamin' my reality.
+Got biscuits in the oven,
+A Bentley in the drive,
+There's beauty in each moment.
+-best enjoy the ride.
+
+No one wants everything just handed to them, truth be told,
+-wouldn't have anything to talk about when you get old.
+And in those moments when my back's against the wall,
+I know my Lord and Savior will answer my every call.
+-could of turned to Him first
+-saved myself a lot of heartaches
+-trying' make it right,
+-owning up to my many mistakes.
+I keep learning my way through each new endeavor,
+and that's what makes me "most clever."
+
+-Keep telling myself the right things
+til I finally believe 'em.
+-Keep doing what I ought to
+til benefits, I reap 'em.
+-Keep thinking what it could be
+as I'm dreamin' my reality.
+Got biscuits in the oven,
+A Bentley in the drive,
+There's beauty in each moment.
+-best enjoy the ride.`
+  },
+
+  {
+    id: "yesterday-tells-a-story",
+    title: "Yesterday Tells a Story",
+    date: "July 28, 2026",
+    categories: ["christian"],
+    lyrics: `Should have been a goner,
+no telling how many times.
+Didn't see it coming;
+somehow stayed within the lines.
+Could have gone all kinds of ways bad
+-when I think of my youth and the fun we had.
+The door was shut, and all the sudden it wasn't.
+It should all add up, but actually, it doesn't.
+The plan was set,
+and all the sudden it took a swerve.
+I messed up and was shown mercy,
+instead of what I deserved.
+
+Yesterday tells a story,
+so don't forget Yesterday.
+When worry and fear grow bigger,
+what does your past say?
+Cover it in prayer.
+Let Him lead the way.
+Learn from Yesterday.
+What does it have to say?
+
+Worst case seems to be where I always end up.
+Forget all I have; focus on a half-empty cup.
+Quick to believe I'm in it all alone.
+-need to stop and recall all the favor I've been shown.
+It's still a wonder I made it, hard-headed as I am.
+But my Lord is ever-patient
+-knows I'm doing the best I can.
+It doesn't take long to see,
+when I take a good look.
+He's always been with me,
+every step that I took.
+
+Yesterday tells a story,
+so don't forget Yesterday.
+When worry and fear grow bigger,
+what does your past say?
+Cover it in prayer.
+Let Him lead the way.
+Learn from Yesterday.
+What does it have to say?
+
+Each day brings enough worry of it's own.
+I must remember the past
+and the blessings I've been shown.
+I have my Father's ear, He hears every word I say.
+It's more than I deserve, more than I could ever re-pay.
+So Yesterday's my teacher and my solid bet
+-because it reminds me my Savior's not done with me yet.
+He wouldn't of taken me this far
+-just to see it all slip away.
+He will accomplish His purpose,
+which is better than mine any day.
+
+Yesterday tells a story,
+so don't forget Yesterday.
+When worry and fear grow bigger,
+what does your past say?
+Cover it in prayer.
+Let Him lead the way.
+Learn from Yesterday.
+What does it have to say?`
+  },
+
+  {
+    id: "faith-tells-me",
+    title: "Faith Tells Me",
+    date: "July 28, 2026",
+    categories: ["christian"],
+    lyrics: `My past paints a picture,
+and too many times I stop just short
+-give Fear a front row seat
+-make Faith my last resort
+-always stuck thinking the worst
+because I let Fear have the floor first.
+When I'm standing at the crossroads, wondering what to do,
+it makes all the difference which voice I listen to.
+
+Fear tells me, "You're running out of time."
+Faith tells me, "He moves in His perfect time."
+Fear tells me, "You're not in their same league."
+Faith tells me, "All you have to do is believe."
+Fear tells me, "Why even bother?"
+Faith tells me, "I will take you farther."
+Faith will take you farther, just lean into Him.
+Shut the door on Fear, and let Faith right in.
+
+A future full of promise, and I'm sittin' on ready
+-Impatient and forgetful
+-Quick to become unsteady
+Thinking it's me against the world,
+let Fear have the driver's seat.
+Flying through this life
+believing I've been beat.
+But Faith is still in tow, and if I give an ear,
+"The size of a mustard seed"
+might echo from the rear.
+
+Fear tells me, "You're running out of time."
+Faith tells me, "He moves in His perfect time."
+Fear tells me, "You're not in their same league."
+Faith tells me, "All you have to do is believe."
+Fear tells me, "Why even bother?"
+Faith tells me, "I will take you farther."
+Faith will take you farther, just lean into Him.
+Shut the door on Fear, and let Faith right in.
+
+Too many flying through this life thinking they've been beat.
+Throw fear to the curb, give Faith the front row seat.`
+  },
+
+  {
     id: "arrows-of-evil",
     title: "Arrows of Evil",
     date: "June 22, 2026",
