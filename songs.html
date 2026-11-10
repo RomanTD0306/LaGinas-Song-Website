@@ -4,7 +4,24 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Songs — LaGina Sharp Davis</title>
-  <meta name="description" content="Browse all 41 original songs by LaGina Sharp Davis, country-Christian songwriter from Long Beach, Mississippi.">
+  <meta name="description" content="Browse every original song by LaGina Sharp Davis, country-Christian songwriter from Long Beach, Mississippi.">
+  <link rel="icon" type="image/x-icon" href="favicons/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicons/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-touch-icon.png">
+  <link rel="manifest" href="favicons/site.webmanifest">
+  <meta name="theme-color" content="#2d5016">
+  <link rel="canonical" href="https://laginadavislyrics.com/songs.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="LaGina Sharp Davis">
+  <meta property="og:title" content="All Lyrics by LaGina Sharp Davis">
+  <meta property="og:description" content="Browse every original song by LaGina Sharp Davis, country-Christian songwriter from Long Beach, Mississippi.">
+  <meta property="og:url" content="https://laginadavislyrics.com/songs.html">
+  <meta property="og:image" content="https://laginadavislyrics.com/images/og-image.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Live oaks along the Mississippi Gulf Coast">
+  <meta name="twitter:card" content="summary_large_image">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&family=Playfair+Display:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
@@ -19,7 +36,7 @@
   </script>
   <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
+<body data-page="songs">
 
   <!-- Navigation -->
   <nav>
@@ -34,12 +51,32 @@
           <span>Songwriter</span>
         </span>
       </a>
-      <ul class="nav-links">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="songs.html" class="active">Lyrics</a></li>
-        <li><a href="index.html#about">About</a></li>
-        <li><a href="index.html#contact">Contact</a></li>
-      </ul>
+      <div class="nav-right">
+        <ul class="nav-links" id="nav-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="songs.html">Lyrics</a></li>
+          <li><a href="index.html#demos">Demos</a></li>
+          <li><a href="index.html#about">About</a></li>
+          <li><a href="index.html#contact">Contact</a></li>
+        </ul>
+        <div class="nav-social">
+          <a href="https://www.instagram.com/laginajdavis/" class="nav-social-link" target="_blank" rel="noopener" aria-label="Instagram">
+            <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
+              <circle cx="12" cy="12" r="4"/>
+              <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/>
+            </svg>
+          </a>
+          <a href="https://www.facebook.com/share/1H85yB1tJh/?mibextid=wwXIfr" class="nav-social-link" target="_blank" rel="noopener" aria-label="Facebook">
+            <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/>
+            </svg>
+          </a>
+        </div>
+        <button type="button" class="nav-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="nav-links">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
     </div>
   </nav>
 
@@ -47,7 +84,7 @@
   <div class="page-header">
     <div class="container">
       <h1>The Lyrics</h1>
-      <p class="subtitle">41 Original Lyrics &mdash; LaGina Sharp Davis</p>
+      <p class="subtitle"><span id="song-count">All</span> Original Lyrics &mdash; LaGina Sharp Davis</p>
     </div>
   </div>
 
@@ -78,6 +115,7 @@
 
       <div class="songs-grid" id="songs-grid">
         <!-- Populated by app.js -->
+          <noscript><p>Please turn on JavaScript to browse the lyrics.</p></noscript>
       </div>
 
     </div>

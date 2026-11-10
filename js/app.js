@@ -1,14 +1,45 @@
 /* =====================
    Shared helpers
    ===================== */
+function escapeHtml(text) {
+  return String(text)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function songUrl(song) {
+  return 'song.html?id=' + encodeURIComponent(song.id);
+}
+
 function renderLyrics(text) {
-  return text
+  return escapeHtml(text)
     .split('\n\n')
     .map(stanza => {
       const lines = stanza.trim().split('\n').map(l => l.trim()).filter(Boolean);
       return '<p>' + lines.join('<br>') + '</p>';
     })
     .join('');
+}
+
+/* Builds the clickable song title cards used on the home and Lyrics pages */
+function renderSongCards(grid, songs) {
+  grid.innerHTML = '';
+  if (songs.length === 0) {
+    grid.innerHTML = '<p class="no-results" style="display:block">No songs matched your search.</p>';
+    return;
+  }
+  songs.forEach(song => {
+    const a = document.createElement('a');
+    a.className = 'song-card';
+    a.href = songUrl(song);
+    const title = document.createElement('span');
+    title.className = 'song-card-title';
+    title.textContent = song.title;
+    a.appendChild(title);
+    grid.appendChild(a);
+  });
 }
 
 /* =====================
@@ -22,28 +53,18 @@ function initIndexPage() {
 
   const PAGE_SIZE = 21;
   let currentPage = 1;
+  let totalPages = 1;
   let currentCategory = 'all';
 
   function renderCards(songs) {
-    grid.innerHTML = '';
-    if (songs.length === 0) {
-      grid.innerHTML = '<p class="no-results" style="display:block">No songs matched your search.</p>';
-      return;
-    }
-    songs.forEach(song => {
-      const a = document.createElement('a');
-      a.className = 'song-card';
-      a.href = 'song.html?id=' + song.id;
-      a.innerHTML = '<span class="song-card-title">' + song.title + '</span>';
-      grid.appendChild(a);
-    });
+    renderSongCards(grid, songs);
   }
 
   function updateNav(totalSongs, isSearching) {
     const prevBtn = document.getElementById('songs-prev');
     const nextBtn = document.getElementById('songs-next');
     const paginationEl = document.getElementById('songs-pagination');
-    const totalPages = Math.ceil(totalSongs / PAGE_SIZE);
+    totalPages = Math.max(1, Math.ceil(totalSongs / PAGE_SIZE));
 
     if (isSearching || totalPages <= 1) {
       if (prevBtn) prevBtn.style.visibility = 'hidden';
@@ -119,7 +140,6 @@ function initIndexPage() {
   }
   if (nextBtn) {
     nextBtn.addEventListener('click', () => {
-      const totalPages = Math.ceil(SONGS.length / PAGE_SIZE);
       if (currentPage < totalPages) {
         currentPage++;
         render(input ? input.value : '');
@@ -153,19 +173,11 @@ function initSongsPage() {
       (currentCategory === 'all' || s.categories.includes(currentCategory)) &&
       (s.title.toLowerCase().includes(term) || s.lyrics.toLowerCase().includes(term))
     );
-    grid.innerHTML = '';
-    if (matches.length === 0) {
-      grid.innerHTML = '<p class="no-results" style="display:block">No songs matched your search.</p>';
-      return;
-    }
-    matches.forEach(song => {
-      const a = document.createElement('a');
-      a.className = 'song-card';
-      a.href = 'song.html?id=' + song.id;
-      a.innerHTML = '<span class="song-card-title">' + song.title + '</span>';
-      grid.appendChild(a);
-    });
+    renderSongCards(grid, matches);
   }
+
+  const countEl = document.getElementById('song-count');
+  if (countEl) countEl.textContent = SONGS.length;
 
   if (filterBar) {
     filterBar.addEventListener('click', (e) => {
@@ -199,6 +211,7 @@ function initSongPage() {
 
   if (!song) {
     if (notFound) notFound.style.display = 'block';
+    document.title = 'Song not found | LaGina Sharp Davis';
     return;
   }
 
@@ -206,6 +219,12 @@ function initSongPage() {
   if (titleEl)  titleEl.textContent = song.title;
   if (dateEl)   dateEl.textContent  = song.date ? 'Written ' + song.date : '';
   if (lyricsEl) lyricsEl.innerHTML  = renderLyrics(song.lyrics);
+
+  const demoEl = document.getElementById('song-demo');
+  if (demoEl && song.demo) {
+    demoEl.href = song.demo;
+    demoEl.hidden = false;
+  }
 }
 
 /* =====================
@@ -217,6 +236,34 @@ function initDemosSection() {
 
   const PAGE_SIZE = 6;
   let currentPage = 1;
+
+  // Demo cards are built from every song in js/songs-data.js that has a demo link,
+  // so the titles always match the lyrics pages.
+  SONGS.filter(song => song.demo).forEach(song => {
+    const card = document.createElement('div');
+    card.className = 'demo-card';
+    card.innerHTML =
+      '<a class="demo-card-main" target="_blank" rel="noopener">' +
+        '<span class="demo-card-icon">' +
+          '<svg width="22" height="22" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.8" aria-hidden="true">' +
+            '<circle cx="12" cy="12" r="10"/><polygon points="10,8 16,12 10,16" fill="currentColor" stroke="none"/>' +
+          '</svg>' +
+        '</span>' +
+        '<span class="demo-card-body">' +
+          '<span class="demo-card-title"></span>' +
+          '<span class="demo-card-label">Listen on Suno</span>' +
+        '</span>' +
+      '</a>' +
+      '<a class="demo-card-lyrics">Lyrics</a>';
+    const main = card.querySelector('.demo-card-main');
+    main.href = song.demo;
+    card.querySelector('.demo-card-title').textContent = song.title;
+    const lyricsLink = card.querySelector('.demo-card-lyrics');
+    lyricsLink.href = songUrl(song);
+    lyricsLink.setAttribute('aria-label', 'Read the lyrics to ' + song.title);
+    grid.appendChild(card);
+  });
+
   const cards = Array.from(grid.querySelectorAll('.demo-card'));
   const totalPages = Math.ceil(cards.length / PAGE_SIZE);
 
@@ -269,14 +316,42 @@ function initDemosSection() {
 /* =====================
    Boot
    ===================== */
+/* =====================
+   Mobile menu
+   ===================== */
+function initMobileMenu() {
+  const nav = document.querySelector('nav');
+  const toggle = document.querySelector('.nav-toggle');
+  if (!nav || !toggle) return;
+
+  function setOpen(open) {
+    nav.classList.toggle('nav-open', open);
+    toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+  }
+
+  toggle.addEventListener('click', () => setOpen(!nav.classList.contains('nav-open')));
+  nav.querySelectorAll('.nav-links a').forEach(a => a.addEventListener('click', () => setOpen(false)));
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') setOpen(false); });
+  document.addEventListener('click', e => { if (!nav.contains(e.target)) setOpen(false); });
+}
+
+/* =====================
+   Boot
+   ===================== */
 document.addEventListener('DOMContentLoaded', () => {
-  const path = window.location.pathname;
-  if (path.endsWith('song.html'))  initSongPage();
-  else if (path.endsWith('songs.html')) initSongsPage();
+  // Each page says which page it is (<body data-page="...">), so this still works
+  // when GitHub Pages serves an address without ".html" (for example /song?id=...).
+  const page = document.body.dataset.page;
+  if (page === 'song')       initSongPage();
+  else if (page === 'songs') initSongsPage();
   else { initIndexPage(); initDemosSection(); }
 
-  // Mark active nav link
+  initMobileMenu();
+
+  // Mark active nav link (Lyrics on the Lyrics and song pages, Home on the home page)
+  const activeHref = (page === 'songs' || page === 'song') ? 'songs.html' : 'index.html';
   document.querySelectorAll('.nav-links a').forEach(a => {
-    if (a.href === window.location.href) a.classList.add('active');
+    if (a.getAttribute('href') === activeHref) a.classList.add('active');
   });
 });

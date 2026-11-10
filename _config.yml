@@ -1,0 +1,7 @@
+# GitHub Pages settings.
+# Files listed here stay in the repository but are not published to the live site.
+exclude:
+  - SCOPE.md
+  - README.md
+  - instagram_post.html
+  - tools/
