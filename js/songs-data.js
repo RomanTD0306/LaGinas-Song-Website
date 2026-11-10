@@ -372,6 +372,7 @@ Try as you may, you can't buy back time.`
   {
     id: "front-porch-swing",
     title: "Front Porch Swing",
+    demo: "https://suno.com/s/QXIGNxlfmUejOGif",
     date: "April 2, 2025",
     categories: ["country"],
     lyrics: `-Running the rat race,
@@ -630,6 +631,7 @@ something to echo throughout time`
   {
     id: "hard-hearted",
     title: "Hard-hearted",
+    demo: "https://suno.com/s/6tWnKLuqQA15mghE",
     date: "",
     categories: ["christian"],
     lyrics: `Short-tempered, short-sighted, short on funds for sure
@@ -917,6 +919,7 @@ for you there'll be no other; your Louisiana love will ever bloom.`
   {
     id: "my-20-year-old-self",
     title: "My 20-year-old Self",
+    demo: "https://suno.com/s/bVHvrW8nRmNF6Ald",
     date: "",
     categories: ["country"],
     lyrics: `Moonlight breaking through the dark
@@ -974,6 +977,7 @@ Just a while`
   {
     id: "jaw-drop-song",
     title: "Jaw Drop Song",
+    demo: "https://suno.com/s/M4pgkbVtQdEglCCn",
     date: "February 5, 2025",
     categories: ["country"],
     lyrics: `Been turning it over in my head
@@ -1035,6 +1039,7 @@ Now you'll see just how it's done.`
   {
     id: "my-beach-town",
     title: "My Beach Town",
+    demo: "https://suno.com/s/gVVXgVJRlGtJboVH",
     date: "July 23, 2025",
     categories: ["country"],
     lyrics: `The ball game may not have gone the way we would like
@@ -1097,6 +1102,7 @@ just the sunset and me`
   {
     id: "the-river-of-grace",
     title: "The River of Grace",
+    demo: "https://suno.com/s/DAnIL9d7pUF6qw3F",
     date: "July 21, 2025",
     categories: ["christian"],
     lyrics: `This world brings lies meant to steal my joy,
@@ -1146,6 +1152,7 @@ My portion- forever, faithfully mine.`
   {
     id: "winners-circle",
     title: "Winners' Circle",
+    demo: "https://suno.com/s/sFJ92zzlpy9RrXcm",
     date: "July 10, 2025",
     categories: ["country"],
     lyrics: `Alarm goes off before the sun.
@@ -1258,6 +1265,7 @@ Summer 101, where livin' your best life is the number one lesson.`
   {
     id: "we-were-old-school",
     title: "We Were Old School",
+    demo: "https://suno.com/s/NALpaUIOVSIxRLjv",
     date: "February 28, 2025",
     categories: ["country"],
     lyrics: `-Writing directions
@@ -1669,6 +1677,7 @@ I see face-to-face.`
   {
     id: "moon-roof-song",
     title: "Moon-roof Song",
+    demo: "https://suno.com/s/IjrWlVh2o1mX8oXx",
     date: "January 31, 2025",
     categories: ["country"],
     lyrics: `She turned every boy's head
@@ -2433,6 +2442,7 @@ And out of the blue, you hear yourself say,
   {
     id: "southland-lady",
     title: "Southland Lady",
+    demo: "https://suno.com/s/rsLtFJLMZuwtErk6",
     date: "April 1, 2026",
     categories: ["country"],
     lyrics: `Walked right in wearing a smile from ear to ear.

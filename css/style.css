@@ -139,6 +139,34 @@ nav {
   transition: color 0.2s, transform 0.2s;
 }
 
+.nav-toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 44px;
+  height: 44px;
+  padding: 0 10px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.nav-toggle span {
+  display: block;
+  height: 2px;
+  background: var(--cream);
+  border-radius: 1px;
+  transition: transform 0.2s, opacity 0.2s;
+}
+
+nav.nav-open .nav-toggle span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+nav.nav-open .nav-toggle span:nth-child(2) { opacity: 0; }
+nav.nav-open .nav-toggle span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+.song-demo-btn { margin-top: 1.25rem; }
+.song-demo-btn[hidden] { display: none; }
+
 .nav-social-link:hover {
   color: var(--gold-light);
   transform: translateY(-2px);
@@ -302,14 +330,38 @@ section { padding: 5rem 0; }
   border: 1px solid #e0dbd0;
   border-left: 4px solid var(--gold);
   border-radius: 3px;
-  padding: 1.1rem 1.3rem;
   display: flex;
-  align-items: center;
-  gap: 1rem;
-  text-decoration: none;
+  align-items: stretch;
   color: inherit;
   transition: all 0.2s;
 }
+
+.demo-card-main {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.1rem 1.3rem;
+  text-decoration: none;
+  color: inherit;
+}
+
+.demo-card-main:hover { color: inherit; }
+
+.demo-card-lyrics {
+  display: flex;
+  align-items: center;
+  padding: 0 1.1rem;
+  border-left: 1px solid #e0dbd0;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--green-mid);
+  text-decoration: none;
+}
+
+.demo-card-lyrics:hover { color: var(--gold); background: var(--cream); }
 
 .demo-card:hover {
   box-shadow: 0 4px 16px rgba(0,0,0,0.09);
@@ -736,8 +788,30 @@ footer {
 }
 
 @media (max-width: 640px) {
-  .nav-links { display: none; }
-  .nav-right { gap: 0; }
+  .nav-inner { padding: 0 1rem; }
+  .nav-right { gap: 0.5rem; }
+  .nav-toggle { display: flex; }
+
+  .nav-links {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    gap: 0;
+    background: var(--green-dark);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+    border-top: 1px solid rgba(249, 245, 239, 0.12);
+  }
+
+  nav.nav-open .nav-links { display: flex; }
+
+  .nav-links a {
+    display: block;
+    padding: 0.95rem 1.5rem;
+    border-bottom: 1px solid rgba(249, 245, 239, 0.08);
+  }
   section { padding: 3.5rem 0; }
 
   .hero h1 { font-size: 2.4rem; }
